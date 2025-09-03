@@ -1,5 +1,19 @@
 # Smart-Salary-Vision
-Smart SalaryVision is a machine learning project developed during the Eudnet AI/ML 6-week training to create an accurate and interactive salary prediction platform. It addresses the challenge of estimating employee compensation fairly and efficiently by leveraging features such as age, education, gender, experience, and job title. The system utilizes several machine learning models, including Random Forest and XGBoost, selecting the best based on performance metrics like R² score. It supports both single-entry predictions through an interactive dashboard and bulk predictions via CSV upload, offering intuitive visualizations to enhance user understanding. This project demonstrates end-to-end data science skills from data cleaning to deployment, delivering a scalable, user-friendly solution for HR analytics and career planning.
+Smart SalaryVision is a machine learning project developed during the Eudnet AI/ML 6-week training to create an accurate and interactive salary prediction platform. It addresses the challenge of estimating employee compensation fairly and efficiently by leveraging features such as **age, education, gender, experience, and job title**.  
+The system utilizes several machine learning models, including **Random Forest** and **XGBoost**, selecting the best based on performance metrics like R² score. It provides a **user-friendly dashboard** for **single-entry salary predictions** with intuitive visualizations to enhance user understanding.  
+
+This project demonstrates **end-to-end data science skills** from data cleaning to deployment, delivering a scalable and user-friendly solution for HR analytics and career planning.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## Features
+- Accurate salary prediction based on demographic and career details
+- Interactive dashboard for easy single-entry prediction
+- Data visualization for better insights
+- Built using Python, Scikit-learn, XGBoost, and Streamlit
+- End-to-end workflow: Data cleaning → Model training → Deployment
+
+---
 
 **OUTPUT WINDOW :-**
 
